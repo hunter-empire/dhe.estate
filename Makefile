@@ -5,9 +5,6 @@ ifdef COMP
 	COMP = compress
 endif
 
-clean:
-	rm --recursive --dir $(DEST)/* || true
-
 compress:
 	[ ! -d $(DEST) ] && mkdir --parents $(DEST) || true
 	chmod --changes -rwx $(SRC)/themes >> log/chmod.log
@@ -23,7 +20,7 @@ compress:
 	gzip --recursive --verbose --keep $(DEST)/*.svg || true
 	chmod --changes u+rwx,g+rx $(SRC)/themes >> log/chmod.log
 
-build: clean $(COMP)
+build: $(COMP)
 	[ ! -d $(DEST) ] && mkdir --parents $(DEST) || true
 	chmod --changes u+rwx,g+rx $(SRC)/themes >> log/chmod.log
 	hugo --source="$(SRC)"
