@@ -8,7 +8,7 @@ categories = ["Information"]
 comments = true
 removeBlur = false
 [[images]]
-  src = "image/clipart/themis.svg"
+  src = "/image/clipart/themis.svg"
   alt = "Lady Justice"
   # Horizontal, vertical, or both
   stretch = ""

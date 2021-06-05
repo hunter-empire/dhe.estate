@@ -8,7 +8,7 @@ categories = ["Information"]
 comments = true
 removeBlur = false
 [[images]]
-  src = "image/clipart/hourglass.svg"
+  src = "/image/clipart/hourglass.svg"
   alt = "A hourglass"
   # Horizontal, vertical, or both
   stretch = ""

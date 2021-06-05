@@ -8,7 +8,7 @@ categories = ["Information"]
 comments = true
 removeBlur = false
 [[images]]
-  src = "image/constitution_preamble_light_blur.png"
+  src = "/image/constitution_preamble_light_blur.png"
   alt = "Constitution Preamble"
   # Horizontal, vertical, or both
   stretch = ""

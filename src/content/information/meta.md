@@ -8,7 +8,7 @@ categories = ["Information"]
 comments = true
 removeBlur = false
 [[images]]
-  src = "image/clipart/rose_with_scroll.svg"
+  src = "/image/clipart/rose_with_scroll.svg"
   alt = "Rose with scroll"
   stretch = ""
 +++
@@ -46,7 +46,7 @@ removeBlur = false
   work by Purzen, modified.
 * [megaphone.svg](https://openclipart.org/detail/211208/loud-megaphone) is a
   Public Domain work by Qubodup, modified
-* [individual_trio.svg](image/clipart/individual_trio.svg) is a Public Domain
+* [individual_trio.svg](/image/clipart/individual_trio.svg) is a Public Domain
   work based on the work of
   [GDP](https://openclipart.org/detail/314197/man-in-suit-icon)
 * [single_book.svg](https://openclipart.org/detail/204361/single-book) is a

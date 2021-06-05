@@ -8,7 +8,7 @@ categories = ["Information"]
 comments = true
 removeBlur = false
 [[images]]
-  src = "image/official-hunter-banner.png"
+  src = "/image/official-hunter-banner.png"
   alt = "Banner of the DHE"
   # Horizontal, vertical, or both
   stretch = ""
@@ -26,7 +26,7 @@ removeBlur = false
 
 <u>Government form</u>: Democracy |
 
-[Flag/Banner](image/official-hunter-banner.png):
+[Flag/Banner](/image/official-hunter-banner.png):
 [Crafting Recipe](http://www.needcoolshoes.com/banner?=eaaBalpcawaipz).
 
 <u>National Day</u>: May 4th: First Democratic Election (Day of Democracy).
@@ -65,9 +65,9 @@ The Hunters are ruled by their people and reject any non-democratic parties and
 groups in the Empire.
 
 
-- [Constitution (PDF)](pdf/constitution.pdf)
+- [Constitution (PDF)](/pdf/constitution.pdf)
   <br>
-- [Simplified, unofficial constitution (PDF)](pdf/constitution_simplified.pdf)
+- [Simplified, unofficial constitution (PDF)](/pdf/constitution_simplified.pdf)
 
 ## Election Dates
 
