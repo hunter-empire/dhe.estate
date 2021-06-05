@@ -4,7 +4,7 @@ description = ""
 author = ""
 # YYYY-MM-DD
 date = ""
-tags = [""]
+# tags = [""]
 categories = [""]
 comments = true
 removeBlur = false
