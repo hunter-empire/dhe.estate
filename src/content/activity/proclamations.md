@@ -18,7 +18,7 @@ removeBlur = false
 
 ### Monroe Doctrine
 
-Any foreign group/government/community what interferes into Hunter's politics,
+Any foreign group/government/community that interferes into Hunter's politics,
 claims, and/or economy without DHE's approval will be seen as a Declaration of
 War.
 

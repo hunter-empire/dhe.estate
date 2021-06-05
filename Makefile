@@ -28,4 +28,4 @@ build: $(COMP)
 deploy:
 	hugo server --disableFastRender --source="$(SRC)"
 
-.PHONY: clean build deploy
+.PHONY: build deploy
