@@ -14,7 +14,28 @@ line.
 Content within `src/content/site/` will be unlisted; in other words, webpages
 within that directory will not be posted within a menu.
 
-# A note on copyright from SVG images
+The official repository is located at:
+[git.dhe.estate](https://git.dhe.estate/dhe-estate/.git). Collaboration occurs
+at [Github](https://github.com/hunter-empire).
+
+# The Vampirism World
+
+There are three major factions: Humans, Hunters (arguably human), and Vampires.
+Notable (sub) factions would be:
+
+- The Democratic Hunter Empire
+- The Vampire Empire
+
+There are notable acronyms used within the Democratic Hunter Empire:
+
+- DHE = Democratic Hunter Empire
+- HoS = Head of State (of the DHE)
+- HC = High Council (of the DHE)
+- VE = Vampire Empire
+
+# Legal
+
+Legal information can be found in `src/information/meta.md`
 
 Some .svg images from openclipart.org do not display their copyright status or
 license on the webpage; nonetheless, the svg files are also text files that can
