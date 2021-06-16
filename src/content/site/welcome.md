@@ -43,8 +43,19 @@ out :)
 - Your base location (XYZ) and if you're interested in moving to the Capital
   Hunter Town.
 - (Optional) Your preferred gender pronoun.
+- (Optional) Your first language and timezone. 
 
 Consider sharing information about DHE adversaries that you may know ;)
+
+## Ensuring things will be OK
+
+Tell us a bit about your relationship with other players. In the past we often
+get into problems with some of our previous members having conflicting
+relationships inside Vampire groups we intended to adversary. *Note: It's okay
+to be friends with Vampires outside roleplay, though we would like to know
+rolepay relationships to prevent conflicts-of-interest.*
+
+Why do you want to become a DHE member? What are your motives?
 
 ### Example
 
@@ -61,16 +72,9 @@ Currently living in the Nether at X:60 Y:125: Z:4680
 Currently deciding about living in the Capital City
 <br>
 He/Him
+<br>
+German, Central European Time Zone.
 
-## Ensuring things will be OK
-
-Tell us a bit about your relationship with other players. In the past we often
-get into problems with some of our previous members having conflicting
-relationships inside Vampire groups we intended to adversary. *Note: It's okay
-to be friends with Vampires outside roleplay, though we would like to know
-rolepay relationships to prevent conflicts-of-interest.*
-
-Why do you want to become a DHE member? What are your motives?
 
 ## Being admitted into the Discord
 
